@@ -10,7 +10,7 @@
  <body>
   <h1>All about Demi</h1>
   <img
-   src="https://images.app.goo.gl/kSm2pACQ276eqDcb6.png"
+   src="https://images.app.goo.gl/kSm2pACQ276eqDcb6"
    width="300" height="300" />
   <p>Demi is an american singer, actress and a
    philanthropist.</p>
