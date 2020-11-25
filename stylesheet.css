@@ -28,7 +28,7 @@
      text-align: center;
      margin: 0 auto;
      display: block;
-     color: fucshia;
+     color: #e607b3;
    }
 
    input {
@@ -36,23 +36,26 @@
      display: block;
    }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: black;
+.navigationbar {
+    background-color: black;
+    overflow: hidden;
 }
 
-li {
+.tnavigationbar a {
   float: left;
+  color: #ffe0f8;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-li a {
-  display: block;
-  padding: 8px;
-  color: pink;
-  text-decoration: none;
-  font-size: 20px;
-  font-weight: bold;
+.tnavigationbar a:hover {
+  background-color: #ff87db;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #c92097;
+  color: #ffe0f8;
 }
