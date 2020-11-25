@@ -1,4 +1,4 @@
-h1 {
+    h1 {
     color: red;
     fontstyle italic;
     text-align: center;
@@ -6,4 +6,19 @@ h1 {
    
    body {
     background-color: pink;
+   }
+
+   p {
+     text-align: center;
+   }
+
+   img {
+     padding: 20px;
+     margin: 30px;
+     border: solid 10px turquoise;
+     border-radius: 100px 0 100px 0;
+   }
+   
+   h2 {
+     text-align: center;
    }
