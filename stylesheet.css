@@ -24,12 +24,11 @@
      text-align: center;
    }
 
-   .link {
+  .link {
      text-align: center;
      margin: 0 auto;
      display: block;
-     color: #e607b3;
-     overflow: hidden;
+     color: fuchsia;
    }
 
    input {
