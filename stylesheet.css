@@ -41,7 +41,7 @@
     overflow: hidden;
 }
 
-.tnavigationbar a {
+.navigationbar a {
   float: left;
   color: #ffe0f8;
   text-align: center;
@@ -51,12 +51,12 @@
    overfloat: hidden;
 }
 
-.tnavigationbar a:hover {
+.navigationbar a:hover {
   background-color: #ff87db;
   color: black;
 }
 
-.topnav a.active {
+.navigationbar a.home {
   background-color: #c92097;
   color: #ffe0f8;
 }
