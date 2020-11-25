@@ -52,4 +52,5 @@ li a {
   display: block;
   padding: 8px;
   color: pink;
+  text-decoration: none;
 }
