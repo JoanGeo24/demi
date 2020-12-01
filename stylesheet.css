@@ -1,6 +1,6 @@
     h1 {
     color: red;
-    fontstyle italic;
+    font-style: italic;
     text-align: center;
    }
    
@@ -48,7 +48,7 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  overfloat: hidden;
+  overflow: hidden;
 }
 
 .navigationbar a:hover {
