@@ -60,3 +60,10 @@
   background-color: #c92097;
   color: #ffe0f8;
 }
+
+.love {
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+}
+    
